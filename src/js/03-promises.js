@@ -18,7 +18,6 @@ function createPromise(position, delay) {
   });
 }
 
-
 const formEl = document.querySelector('form');
 
 formEl.addEventListener('submit', onSubmit);
